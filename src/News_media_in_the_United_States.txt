@@ -1,0 +1,15 @@
+pbs.org
+abcnews.go.com
+cbsnews.com
+cnn.com
+foxnews.com
+msnbc.com
+nbcnews.com
+nytimes.com
+latimes.com
+usatoday.com
+wsj.com
+washingtonpost.com
+newsweek.com
+time.com
+usnews.com
